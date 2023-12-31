@@ -3,6 +3,8 @@ Emma McGrath
 CIS_1051 Project
 
 Catdash!
+A simple game which the user never wins
+
 '''
 
 import pygame
